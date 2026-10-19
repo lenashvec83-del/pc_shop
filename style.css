@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+header{
+    background-color: rgba(47, 47, 47, 0.774);
+    color:white;
+    padding: 30px;
+}
+.h2{
+    font-size: 48px;
+
+}
+div{
+    background-color: black;
+    color:white;
+    padding:30px;
+    margin-top: 50px;
+} 
+header ul{
+display:flex;
+justify-content: flex-start;
+gap:50px;
+}
