@@ -8,6 +8,9 @@ header{
     font-size: 48px;
 
 }
+.img{
+    width: 80%;
+}
 div{
     background-color: black;
     color:white;
@@ -32,6 +35,6 @@ font-style:italic ;
 }
 .alfa-slab-one-regular {
   font-family: "Alfa Slab One", serif;
-  font-weight: 400;
+  font-weight: 900;
   font-style: normal;
 }
